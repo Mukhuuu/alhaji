@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "hardhat": "^2.22.6"
-  },
-  "dependencies": {
-    "thirdweb": "^5.39.0"
-  }
-}
